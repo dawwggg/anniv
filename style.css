@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif; /* Fallback font family */
     text-align: center; /* Center-align text */
     margin: 0; /* Remove default margin */
-    background-color: #e3ebeacf; /* Set background color to light pink */
+    background-color:  #b19cd9; /* Set background color to light pink */
 }
 p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -14,6 +14,7 @@ form{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
     text-align: end;
 }
+
 #container {
     display: flex; /* Use flexbox layout */
     flex-direction: column; /* Stack elements vertically */
